@@ -1,20 +1,19 @@
 <h1>Classifying Phishing Websites with ML/AI</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+
 
 <h2>Description</h2>
+
+Developed a machine learning model to classify websites as legitimate or phishing by training on labeled URL features. Evaluated the model by predicting classifications on a separate test dataset and measuring performance using accuracy and other metrics.
 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Environments and Languages Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
+- <b>Juniper Notebooks</b>
+- <b>Google Colab</b>
+- <b>Python</b>
 
 <h2>Program walk-through:</h2>
 
