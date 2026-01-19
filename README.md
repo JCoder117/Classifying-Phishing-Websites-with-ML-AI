@@ -9,8 +9,6 @@ Developed a machine learning model to classify websites as legitimate or phishin
 <br />
 
 <h2>Phases of project</h2>
-n this Python project, I built a machine-learning model that can determine if a website is phishing based upon the properties of a website (e.g. Insecure features, high URL character complexity) with an 89% accuracy score—nothing to write home about, but not terrible considering this was my first time building an AI model from the ground up.
-
 This project consists of 5 Phases:
 
 - Phase I - Preparing the Test Data: This phase of the project entails the cleaning of the training data that was pulled from APWG's Phishing Attack Trends Report , including removing data points that have too much missing information, imputing missing data, and encoding certain features.
